@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning _**Systens of Information**_
+- 🌱 I’m currently learning _**Systems of Information**_
 - 👯 I’m looking to collaborate on everything
 - 🤔 I’m looking for help with things I can’t understand
 - 💬 Things you can’t translate to inglish: **"Saudade"**
